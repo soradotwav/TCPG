@@ -5,15 +5,15 @@ This repository is my personal space for mastering the challenges in [The C# Pla
 ## ✨ What's Inside:
 
 * Challenge Solutions:
-Each folder mirrors a book chapter, containing my completed solutions for every coding challenge.
+  Each folder mirrors a book chapter, containing my completed solutions for every coding challenge.
 * Progress Log:
-This readme documents my journey, capturing key takeaways, insights, and occasional stumbles on my C# path.
+  This readme documents my journey, capturing key takeaways, insights, and occasional stumbles on my C# path.
 ## Feel Free To:
 
 * Peek and Explore:
-This repository is an open diary of my C# learning. Feel free to browse, get inspired, or simply see how someone else tackles these challenges.
+  This repository is an open diary of my C# learning. Feel free to browse, get inspired, or simply see how someone else tackles these challenges.
 * Ask Me Anything:
-If you have any C# questions or want to discuss specific challenges, [reach out](mailto:dev@soradotwav.com)! I'm happy to share my learnings and potentially learn from yours too.
+  If you have any C# questions or want to discuss specific challenges, [reach out](mailto:dev@soradotwav.com)! I'm happy to share my learnings and potentially learn from yours too.
 ##  Current Stats:
 
 - Level: 3
