@@ -27,3 +27,5 @@ This repository is my personal space for mastering the challenges in [The C# Pla
 ## Disclaimer:
 
 This is my personal journey, a chronicle of my exploration in C#. It's not a guide for everyone, but feel free to adapt it to your own learning style and pace.
+
+This project is licensed under the terms of the MIT license.
