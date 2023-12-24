@@ -17,9 +17,9 @@ This repository is my personal space for mastering the challenges in [The C# Pla
 ##  Current Stats:
 
 - Level: 3
-- Recently Completed Chapter: Chapter 6
-- Quests Completed: 11/105
-- XP Gained: 600 XP
+- Recently Completed Chapter: Chapter 7
+- Quests Completed: 14/105
+- Total XP Gained: 900 XP
 ## Tech Stack:
 
 * IntelliJ Raider
