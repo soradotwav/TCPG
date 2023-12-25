@@ -16,10 +16,10 @@ This repository is my personal space for mastering the challenges in [The C# Pla
   If you have any C# questions or want to discuss specific challenges, [reach out](mailto:dev@soradotwav.com)! I'm happy to share my learnings and potentially learn from yours too.
 ##  Current Stats:
 
-- Level: 4
-- Recently Completed Chapter: Chapter 12
-- Quests Completed: 23/105
-- Total XP Gained: 1800 XP
+- Level: 5
+- Recently Completed Chapter: Chapter 13
+- Quests Completed: 25/105
+- Total XP Gained: 2000 XP
 ## Tech Stack:
 
 * IntelliJ Raider
