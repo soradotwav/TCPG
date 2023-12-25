@@ -5,7 +5,7 @@ This repository is my personal space for mastering the challenges in [The C# Pla
 ## ✨ What's Inside:
 
 * Challenge Solutions:
-  Each folder mirrors a book chapter, containing my completed solutions for every coding challenge.
+  Each folder mirrors a book chapter, containing my completed solutions for every coding challenge. Challenges that have a continuation will either have the adjustments commented in the main file or, if not easily adjustable, will have their own files.
 * Progress Log:
   This readme documents my journey, capturing key takeaways, insights, and occasional stumbles on my C# path.
 ## Feel Free To:
@@ -17,9 +17,9 @@ This repository is my personal space for mastering the challenges in [The C# Pla
 ##  Current Stats:
 
 - Level: 4
-- Recently Completed Chapter: Chapter 10
-- Quests Completed: 17/105
-- Total XP Gained: 1300 XP
+- Recently Completed Chapter: Chapter 11
+- Quests Completed: 19/105
+- Total XP Gained: 1450 XP
 ## Tech Stack:
 
 * IntelliJ Raider
